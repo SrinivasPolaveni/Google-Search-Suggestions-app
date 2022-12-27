@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  justify-content: space-between;
+  justify-items: space-between;
+  list-style-type: none;
+  align-items: center;
+}
+.paragraph {
+  font-family: Roboto;
+  font-size: 18px;
+  color: #475569;
+}
+.image2 {
+  width: 8%;
+  height: 5%;
+  color: #64748b;
+  margin-right: 5px;
+}
